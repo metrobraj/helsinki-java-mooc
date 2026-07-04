@@ -5,9 +5,9 @@ The repository aims to be an archive to track consistency, enhance programming l
 ---
 
 ## Tech Stack
-**Language:** Java (JDK 25 LTS)
-**IDE:** VS Code
-**Testing Framework:** Test My Code(TMC) Client
+**Language:** Java (JDK 25 LTS)  
+**IDE:** VS Code  
+**Testing Framework:** Test My Code(TMC) Client  
 
 ## Progress Tracker
 **Java Programming I**
